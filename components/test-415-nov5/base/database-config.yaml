@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: test-415-nov5-database-config
+data:
+  VECTORDB_HOST: "test-415-nov5-database"
+  VECTORDB_PORT: ""
